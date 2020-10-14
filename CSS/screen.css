@@ -1,0 +1,42 @@
+/* Site Navigation */
+nav li {
+    display: inline;
+    list-style: none;
+float: right;
+margin-top: 20px;
+margin-right: 3px;
+padding: 10px 5px
+border 5px colour green;}
+
+
+/* End Site Nav*/
+img {max-width: 60%; height: auto;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+
+label{
+    color: green;
+}
+
+div 
+{background-color: blue;
+padding: 30px;
+width: 250px;
+border-radius: 30px;
+margin: 15px;
+box-sizing: border-box;}  
+
+/* Site Navigation */
+.nav-site {
+    list-style: none;
+float: left;
+flex: 1;}
+
